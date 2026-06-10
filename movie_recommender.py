@@ -1,14 +1,9 @@
-
 """
-movie_recommender.py
+
 Simple item-based collaborative filtering recommender using cosine similarity.
 
-Usage:
-    python movie_recommender.py
-
-It will load movies.csv and ratings.csv from the same directory and print
-top-N recommendations for example users.
 """
+
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 from scipy.sparse import csr_matrix
