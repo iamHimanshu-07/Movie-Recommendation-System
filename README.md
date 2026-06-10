@@ -104,6 +104,9 @@ The program will:
 3. Build an Item-User Matrix
 4. Calculate Movie Similarities
 5. Generate Recommendations
+   
+Run:
+<img width="1347" height="671" alt="image" src="https://github.com/user-attachments/assets/e0a47b17-e879-4b6d-b526-a83a03568ce0" />
 
 ---
 
