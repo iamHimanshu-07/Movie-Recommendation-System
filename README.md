@@ -105,7 +105,8 @@ The program will:
 4. Calculate Movie Similarities
 5. Generate Recommendations
    
-Run:
+Run: (it run till 610 users)
+
 <img width="1347" height="671" alt="image" src="https://github.com/user-attachments/assets/e0a47b17-e879-4b6d-b526-a83a03568ce0" />
 
 ---
@@ -130,28 +131,6 @@ Recommendation Engine
       ▼
 Top-N Recommended Movies
 ```
----
-
-# 🎯 Sample Recommendation Flow
-
-User Ratings:
-
-```text
-The Dark Knight      ★★★★★
-Inception            ★★★★★
-Interstellar         ★★★★☆
-```
-
-System Recommendation:
-
-```text
-Batman Begins
-The Prestige
-Memento
-Fight Club
-The Matrix
-```
-
 ---
 
 # 🌟 Applications
