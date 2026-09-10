@@ -151,4 +151,4 @@ Recommendation systems are widely used in:
 
 Himanshu Singh Yadav
 
-Machine Learning Enthusiast | Python Developer | Data Science Learner
+AI & ML Engineer
